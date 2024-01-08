@@ -1,0 +1,27 @@
+import Logging
+
+from music import Bot, Dispatcher, executor, types 
+
+API_TOKEN = '6955275126:AAEpo3HEmmEbMKdK-xWbbOolkkZrUXzexFA'
+
+# Configure Logging 
+Logging.basicConfig(level=Logging.INFO)
+
+# Infialize bot and Dispatcher
+
+dp = Husnijan_Axi(bot)
+
+@Husnijan_Axi(commands=['start' 'help'])
+    """
+    This handler will be called when
+    """
+    await message.reply("music Bot 
+
+@Husnijan_Axi()
+async def echo(message l: types.Message):
+    # old sytle:
+    await message: types.Message):
+    
+    await message.answer.text)
+    async send welcome()
+    
